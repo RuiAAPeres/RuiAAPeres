@@ -1,16 +1,22 @@
-### Hi there 👋
+### 🌳
 
-<!--
-**RuiAAPeres/RuiAAPeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working as a Tech Lead in the iOS team! 🍎👋 In the recent past I was working as an Enginering Manager. I missed coding, so I am again in the individual contributor track! 😄🛠
 
-Here are some ideas to get you started:
+If I can help you with anything, from iOS, career advise or farming let me know! 👨‍🌾🥕 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Colaboration 👯‍♀️
+
+I am always up to colaborate on exciting OSS projects. So if you need a hand, don't hesitate. 🚀 Ideally this project is a consumer facing product, not necessarily a tool for other developers. 🙄
+
+### Focus for 2020 👀
+
+- ... less running and more cycling 🚴‍♀️
+- ... read more and spend less time on social networks 📚
+- ... be grateful for what I have 👨‍👩‍👦
+
+### Contact 📫
+
+You can reach me via:
+* 👉 [Twitter](https://twitter.com/peres)
+* 👉 [Email](mailto:peres@hey.com)
+
