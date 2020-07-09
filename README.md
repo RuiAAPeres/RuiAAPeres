@@ -4,19 +4,22 @@ I am currently working as a Tech Lead in the iOS team! 🍎👋 In the recent pa
 
 If I can help you with anything, from iOS, career advise or farming let me know! 👨‍🌾🥕 
 
-### Colaboration 👯‍♀️
+### Collaboration 👯‍♀️
 
-I am always up to colaborate on exciting OSS projects. So if you need a hand, don't hesitate. 🚀 Ideally this project is a consumer facing product, not necessarily a tool for other developers. 🙄
+I am always up to collaborate on exciting OSS projects. So if you need a hand, don't hesitate. 🚀 Ideally this project is a consumer facing product, not necessarily a tool for other developers. 🙄
 
 ### Focus for 2020 👀
 
-- ... less running and more cycling 🚴‍♀️
+- ... [less running and more cycling](https://www.strava.com/athletes/2273168) 🚴‍♀️
 - ... read more and spend less time on social networks 📚
 - ... be grateful for what I have 👨‍👩‍👦
 
 ### Contact 📫
 
 You can reach me via:
+
 * 👉 [Twitter](https://twitter.com/peres)
 * 👉 [Email](mailto:peres@hey.com)
 
+
+fun fact: I once went for a run that lasted 9h in the Swiss Alps. ⛰
