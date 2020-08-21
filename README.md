@@ -1,3 +1,5 @@
+![](https://github-readme-stats.vercel.app/api?username=ruiaaperes&count_private=true&show_icons=true&theme=dracula)
+
 ### 🌳
 
 I am currently working as a Tech Lead in the iOS team! 🍎👋 In the recent past I was working as an Enginering Manager. I missed coding, so I am again in the individual contributor track! 😄🛠
@@ -23,3 +25,4 @@ You can reach me via:
 
 
 fun fact: I once went for a run that lasted 9h in the Swiss Alps. ⛰
+
