@@ -10,7 +10,7 @@ I am always up to collaborate on exciting OSS projects. So if you need a hand, d
 
 #### Focus for 2020 👀
 
-- ... [less running and more cycling](https://www.strava.com/athletes/2273168) 🚴‍♀️
+- ... [~less~ running ~and more cycling 🚴‍♀️~](https://www.strava.com/athletes/2273168) 
 - ... read more and spend less time on social networks 📚
 - ... be grateful for what I have 👨‍👩‍👦
 
