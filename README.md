@@ -8,6 +8,6 @@ I am always up to collaborate on exciting OSS projects. So if you need a hand, d
 You can reach me via:
 
 * 👉 [Twitter](https://twitter.com/peres)
-* 👉 [Email](mailto:peres@hey.com)
+* 👉 [Email](mailto:rui.a.peres+github@gmail.com)
 
 
